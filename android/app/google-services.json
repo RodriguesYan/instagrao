@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136755740304",
+    "project_id": "riverpodinstagrao",
+    "storage_bucket": "riverpodinstagrao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136755740304:android:c9056f8017d1b9a0f02215",
+        "android_client_info": {
+          "package_name": "com.rodrigues.riverpod_instagrao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136755740304-0m63pdtki9hktdp4hrrm25n2n330sctm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR372Nazz2GWsvR2AEQqmpCDY7DXpR0Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136755740304-0m63pdtki9hktdp4hrrm25n2n330sctm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
